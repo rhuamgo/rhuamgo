@@ -22,6 +22,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em expand
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,c#,py" />
   </a>
+
 ### 🧠 Habilidades e Conhecimentos Técnicos:
 - **Desenvolvimento Web:**  
   - HTML5, CSS3, JavaScript, Ionic, Angular
