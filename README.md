@@ -20,7 +20,15 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou focado em expand
 
 ### Conhecimentos Em:
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,c#,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,c#,py,linux" />
+  </a>
+
+### Ferramentas:
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,vscode,figma,discord,visualstudio" />
+  </a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,webstorm,netlify" />
   </a>
 
 ### 🧠 Habilidades e Conhecimentos Técnicos:
